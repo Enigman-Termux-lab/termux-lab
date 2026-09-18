@@ -17,6 +17,10 @@
 
 </div>
 
+> [!NOTE]
+> 🌐 **Этот проект является частью экосистемы [Enigman Termux Lab](https://github.com/Enigman-Termux-lab)** — открытой лаборатории автономных AI-агентов и системных инструментов для Android Termux.  
+> 📌 **Главный хаб и полный каталог инструментов:** [github.com/Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)
+
 ## 📌 Содержимое репозитория
 
 В репозитории собраны ключевые модули для стабильной, автономной работы CLI-агентов в Termux:
